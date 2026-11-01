@@ -11,3 +11,26 @@ frontend/dist/
 
 # Secrets
 backend/src/main/resources/application.properties
+
+# IDE and editor
+.idea/
+.vscode/
+
+# AI coding tools
+.freebuff/
+
+# Dependencies
+node_modules/
+
+# Build output
+target/
+dist/
+
+# Environment and secrets
+.env
+.env.*
+application.properties
+
+# Temporary files
+tmp_cv.txt
+*.log
